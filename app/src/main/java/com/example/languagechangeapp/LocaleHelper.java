@@ -44,7 +44,7 @@ public class LocaleHelper {
         editor.putString(SELECTED_LANGUAGE, language);
         editor.apply();
 
-      //  Constants.setSharedPreference(context, Constants.Language, language);
+     //   Constants.setSharedPreference(context, Constants.Language, language);
     }
 
 
